@@ -1,3 +1,4 @@
+### NOTE: all bookmarklets will be labeled [b] and all datamarklets will be labeled [d]
 # Bookmarklets
 Bookmarklets I decided were cool made by me
 
@@ -11,3 +12,15 @@ Bookmarklets I decided were cool made by me
 ##### 5. click the "More" button
 ##### 6. Paste the code into the url bar, either with ctrl+v or ctrl+shift+v or left clicking and hitting paste.
 ##### 7. You're all set! Just click the bookmarklet to run the js.
+
+# Datamarklets
+"Datamarklets" are websites embedded into data: so you can acess it without internet, although it shows in your history. It works just like a link - so the website you are currently in will be replaced, unlike about:blank bookmarklets.
+
+### To add datamarklet:
+##### 1. Highlight all the text in the textbox
+##### 2. Copy it by either doing ctrl+c or left clicking and hitting "Copy"
+##### 3. Bookmark the website (ctrl+d or hit the star to the right of the url)
+##### 4. Rename it to whatever you want.
+##### 5. click the "More" button
+##### 6. Paste the code into the url bar, either with ctrl+v or ctrl+shift+v or left clicking and hitting paste.
+##### 7. You're all set! Just click the datamarklet to open the website.
